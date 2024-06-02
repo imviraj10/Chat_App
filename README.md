@@ -55,7 +55,7 @@ Start the Client
 
 ### Authenticaton
 ![](https://github.com/imviraj10/chat_app/blob/master/screenshots/login.PNG)
-![](https://github.com/imviraj10/chat_app/blob/master/screenshots/signup.PNG)
+
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/imviraj10/chat_app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
