@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# ChatterBox
 
-Talk-a-tive is a Full Stack Chatting App.
+ChatterBox is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -23,7 +23,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd mern-chat-app
+  cd chat_app
 ```
 
 Install dependencies
